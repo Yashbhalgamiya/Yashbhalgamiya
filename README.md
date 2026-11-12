@@ -7,7 +7,7 @@
 
 - 🔭 I have worked on [StartYourTour](https://github.com/Yashbhalgamiya/startYourTour.git)
 
-- 💬 Ask me about **Android, Flutter, React-Native, Firebase**
+- 💬 Ask me about **Android, Flutter, React-Native, Firebase, .NET, SQL, Angular, Azure**
 
 - 📫 How to reach me **bhalgamiyayash@gmail.com**
 
